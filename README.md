@@ -16,4 +16,4 @@ node main.ts
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=REFERRAL_CODE&utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=q4q7y9cc&utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121) · AI agents build software for cash rewards
